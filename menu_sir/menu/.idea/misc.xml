@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sarath/AndroidStudioProjects/menu/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sarath/AndroidStudioProjects/menu/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sarath/AndroidStudioProjects/menu/app/src/main/res/layout/activity_main3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sarath/AndroidStudioProjects/menu/app/src/main/res/layout/activity_main4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sarath/AndroidStudioProjects/menu/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sarath/AndroidStudioProjects/menu/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sarath/AndroidStudioProjects/menu/app/src/main/res/menu/menu_main.xml" value="0.264" />
+        <entry key="..\:/Users/jinsx/AndroidStudioProjects/menu/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jinsx/AndroidStudioProjects/menu/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jinsx/AndroidStudioProjects/menu/app/src/main/res/layout/activity_main3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jinsx/AndroidStudioProjects/menu/app/src/main/res/layout/activity_main4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jinsx/AndroidStudioProjects/menu/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jinsx/AndroidStudioProjects/menu/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jinsx/AndroidStudioProjects/menu/app/src/main/res/menu/menu_main.xml" value="1.4142857142857144" />
+        <entry key="..\:/exm codes/Data package from March 30th/menu_sir/menu/app/src/main/res/layout/activity_main.xml" value="0.2557291666666667" />
+        <entry key="..\:/exm codes/Data package from March 30th/menu_sir/menu/app/src/main/res/layout/activity_main2.xml" value="0.2557291666666667" />
+        <entry key="..\:/exm codes/Data package from March 30th/menu_sir/menu/app/src/main/res/layout/activity_main3.xml" value="0.2557291666666667" />
+        <entry key="..\:/exm codes/Data package from March 30th/menu_sir/menu/app/src/main/res/layout/activity_main4.xml" value="0.2557291666666667" />
+        <entry key="..\:/exm codes/Data package from March 30th/menu_sir/menu/app/src/main/res/layout/toolbar.xml" value="0.2557291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
